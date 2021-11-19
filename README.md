@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Karen! 👋
 
-<!--
-**karlopolas/karlopolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I learned English back when I was in high school and started teaching it ever since. But after almost 13 years in education, I decided to switch to web development. Best decision ever!! 
 
-Here are some ideas to get you started:
+Excited to be on this new path, learning as much as I can, LOVING the community around web dev.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🧠 Currently learning: **React**
+- 👩🏻‍💻 So far: **HTML**, **CSS**, **JS**, **Firebase**, **Jest**, good old **Git-Github**
+- 👩🏻‍🎓 Favorite schools: Youtube & Google 
+- 😄 Pronouns: She/Her
+- 💙 Latest obsession: Hercai...a turkish soup opera 😅
+- 📫 Find me on: [Twitter](https://twitter.com/karlopolas), [LinkedIn](https://www.linkedin.com/in/karenpoveda29/), [Instagram](https://www.instagram.com/karlopolas/)
+
+
+
+
+<!--- 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... 
+
+
 -->
+
