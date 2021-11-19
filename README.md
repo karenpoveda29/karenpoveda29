@@ -10,7 +10,7 @@ Excited to be on this new path, learning as much as I can, LOVING the community 
 - 👩🏻‍🎓 Favorite schools: Youtube & Google 
 - 😄 Pronouns: She/Her
 - 💙 Latest obsession: Hercai...a turkish soup opera 😅
-- 📫 Find me on: [Twitter](https://twitter.com/karlopolas), [LinkedIn](https://www.linkedin.com/in/karenpoveda29/), [Instagram](https://www.instagram.com/karlopolas/)
+- 📫 Let's chat: [Twitter](https://twitter.com/karlopolas), [LinkedIn](https://www.linkedin.com/in/karenpoveda29/), [Instagram](https://www.instagram.com/karlopolas/)
 
 
 
