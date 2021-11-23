@@ -6,7 +6,7 @@ Excited to be on this new path, learning as much as I can, LOVING the community 
 
 
 - 🧠 Currently learning: **React**
-- 👩🏻‍💻 So far: **HTML**, **CSS**, **JS**, **Firebase**, **Jest**, good old **Git-Github**
+- 👩🏻‍💻 So far: **HTML**, **CSS**, **JS**, **Firebase**, **Jest**, **Git-Github**
 - 👩🏻‍🎓 Favorite schools: Youtube & Google 
 - 😄 Pronouns: She/Her
 - 💙 Latest obsession: Hercai...a turkish soup opera 😅
