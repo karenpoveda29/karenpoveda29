@@ -5,7 +5,7 @@ I learned English back when I was in high school and started teaching it ever si
 Excited to be on this new path, learning as much as I can, LOVING the community around web dev.  
 
 
-- 🧠 Currently learning: **React**
+- 🧠 Currently learning: **Redux**
 - 👩🏻‍💻 So far: **HTML**, **CSS**, **JS**, **Firebase**, **Jest**, **Git-Github**
 - 👩🏻‍🎓 Favorite schools: Youtube & Google 
 - 😄 Pronouns: She/Her
