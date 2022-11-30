@@ -5,13 +5,12 @@ I learned English back when I was in high school and started teaching it ever si
 Excited to be on this new path, learning as much as I can, LOVING the community around web dev.  
 
 
-- 🧠 Currently learning: **Redux**
+- 🧠 Currently learning: **Flutter**
 - 👩🏻‍💻 So far: **HTML**, **CSS**, **JS**, **Firebase**, **Jest**, **Git-Github**, **React**, **Sass** 
 - 👩🏻‍🎓 Favorite schools: Youtube & Google 
 - 😄 Pronouns: She/Her
-- 💙 Latest obsession: Hercai...a turkish soup opera 😅
-- 📫 Let's chat: [Twitter](https://twitter.com/karenpoveda29), [LinkedIn](https://www.linkedin.com/in/karenpoveda29/), [Instagram](https://www.instagram.com/karenpoveda29/)
-
+- 💙 Latest obsession: The office (watching for the first time!) 
+- 📫 Let's chat: [Twitter](https://twitter.com/karenpoveda29), [LinkedIn](https://www.linkedin.com/in/karenpoveda29/)
 
 
 
